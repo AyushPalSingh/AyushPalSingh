@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @AyushPalSingh
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning c++ language 
-- 💞️ I’m looking to collaborate on some good projects
-- 📫 How to reach me ayushpalsingh2002@gmail.com
+-  Hi, I’m @AyushPalSingh
+-  I’m currently pursuing Master's at IIT Patna.
+-  I’m looking to collaborate on some good projects
+-  contact : ayushpalsingh2002@gmail.com
