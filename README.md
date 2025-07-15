@@ -1,4 +1,2 @@
 -  Hi, I’m @AyushPalSingh
--  I’m currently pursuing Master's at IIT Patna.
--  I’m looking to collaborate on some good projects
 -  contact : ayushpalsingh2002@gmail.com
